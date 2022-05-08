@@ -8,14 +8,16 @@
 
 # Description
 
-1) Web based proctoring application that has 2 working ends:
-   
-   i) Student End 
-   
-   ii) Teacher End
+2) Web based proctoring application that has 2 working ends:
+
+    b) Teacher's End
+        
+        i) Student End
+        
+        ii) Teacher End
 
 2) Features
-3) 
+
     b) Teacher's End
         
         i) Create Exam by importing document, View/Add/Update Questions.
