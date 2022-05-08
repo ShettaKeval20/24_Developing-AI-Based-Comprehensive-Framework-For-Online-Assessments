@@ -9,8 +9,6 @@
 # Description
 
 2) Web based proctoring application that has 2 working ends:
-
-    b) Teacher's End
         
         i) Student End
         
