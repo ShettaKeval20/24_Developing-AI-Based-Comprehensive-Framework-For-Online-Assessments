@@ -13,15 +13,17 @@
    ii) Teacher End
 
 2) Features
-   a) Teacher's End
-      
-      i) Create Exam by importing document, View/Add/Update Questions.
-      
-      ii) Check Student real time logs.
-   
-   b) Proctoring Mechanism
+3) 
+    b) Teacher's End
         
-        i)  Attempt the exam
+        i) Create Exam by importing document, View/Add/Update Questions.
+        
+        ii) Check Student real time logs.
+   
+   
+   b) Student's End
+        
+        i) Attempt the exam
         
         ii) Capture images from live environment and analyze it.
     
