@@ -36,15 +36,16 @@
             b) multiple persons detected
         
         iii) Tab Switching activity and terminate the exam after 5 attempts.
-   
+
 3) Technology Stack used
-   i) HTML , CSS , Bootstrap
-   
-   ii) DeepFace : for face detection and validation purposes
-   
-   iii) YOLO weights : for object detection
-   
-   iv) Flask - Python : framework for developing web application in python
+        
+        i) HTML , CSS , Bootstrap
+        
+        ii) DeepFace : for face detection and validation purposes
+
+        iii) YOLO weights : for object detection
+        
+        iv) Flask - Python : framework for developing web application in python
 
 # Complete Code Link
 https://drive.google.com/drive/u/1/folders/1urSFYKU51PlRjbDwS9F8mHuJ8Zs2ZbOU
