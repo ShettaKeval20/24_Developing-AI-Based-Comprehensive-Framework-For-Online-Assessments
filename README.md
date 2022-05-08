@@ -62,9 +62,9 @@ Create Environment
 
 1) download projectenv.yml from github
 
-2) on anaconda terminal 
-   
-   i) conda env create --name testenv --file=project_env.yml
+2) Proctoring Mechanism
+        
+        i) conda env create --name testenv --file=project_env.yml
 
 3) open Xampp . Turn On apache & mysql
 
