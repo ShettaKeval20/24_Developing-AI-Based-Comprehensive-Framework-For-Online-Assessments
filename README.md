@@ -34,6 +34,7 @@
    iii) YOLO weights : for object detection
    iv) Flask - Python : framework for developing web application in python
 
+# Files Required
 Variables file : https://www.mediafire.com/file/bp4stjan6z77h9b/variables.data-00000-of-00001/file
 Variables Index file : https://www.mediafire.com/file/n4m90dmwtvumpfs/variables.index/file
 Yolo file : https://www.mediafire.com/file/hd2sfcxicgy4vll/yolov3.weights/file
