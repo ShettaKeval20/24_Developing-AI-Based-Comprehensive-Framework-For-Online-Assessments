@@ -18,13 +18,13 @@
       i) Create Exam by importing document, View/Add/Update Questions.
       
       ii) Check Student real time logs.
-      
-   b) Student's End
-      
-      i) Attempt the exam
-      
-      ii) Capture images from live environment and analyze it.
-      
+   
+   b) Proctoring Mechanism
+        
+        i)  Attempt the exam
+        
+        ii) Capture images from live environment and analyze it.
+    
    c) Proctoring Mechanism
         
         i) Detection of mobile.
