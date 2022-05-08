@@ -68,12 +68,12 @@ Create Environment
 
 3) open Xampp . Turn On apache & mysql
 
-4) On anaconda terminal  
-     
-     i) cd Desktop
-     
-     ii) cd foldername
-     
-     iii) activate testenv
-     
-     iv) python app.py
+4) Proctoring Mechanism
+        
+        i) cd Desktop.
+        
+        ii) cd foldername.
+        
+        iii) activate testenv.
+        
+        iv) python app.py.
