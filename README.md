@@ -58,6 +58,7 @@ Yolo file : https://www.mediafire.com/file/hd2sfcxicgy4vll/yolov3.weights/file
 
 # Commands and Execution
 Create Environment
+
 1) download projectenv.yml from github
 
 2) on anaconda terminal 
