@@ -16,7 +16,7 @@
 
 2) Features
 
-    b) Teacher's End
+    a) Teacher's End
         
         i) Create Exam by importing document, View/Add/Update Questions.
         
