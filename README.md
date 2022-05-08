@@ -42,7 +42,7 @@ Variables file : https://www.mediafire.com/file/bp4stjan6z77h9b/variables.data-0
 Variables Index file : https://www.mediafire.com/file/n4m90dmwtvumpfs/variables.index/file
 Yolo file : https://www.mediafire.com/file/hd2sfcxicgy4vll/yolov3.weights/file
 
-# Commands
+# Commands and Execution
 Create Environment
 1) download projectenv.yml from github
 2) on anaconda terminal 
