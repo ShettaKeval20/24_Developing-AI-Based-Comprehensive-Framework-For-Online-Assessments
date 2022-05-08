@@ -23,15 +23,22 @@
       
    c) Proctoring Mechanism
         i) Detection of mobile.
+        
         ii) Person detections in terms of: 
+            
             a) no person detected
+            
             b) multiple persons detected
+        
         iii) Tab Switching activity and terminate the exam after 5 attempts.
    
 3) Technology Stack used
    i) HTML , CSS , Bootstrap
+   
    ii) DeepFace : for face detection and validation purposes
+   
    iii) YOLO weights : for object detection
+   
    iv) Flask - Python : framework for developing web application in python
 
 # Complete Code Link
@@ -47,12 +54,19 @@ Yolo file : https://www.mediafire.com/file/hd2sfcxicgy4vll/yolov3.weights/file
 # Commands and Execution
 Create Environment
 1) download projectenv.yml from github
+
 2) on anaconda terminal 
+   
    2a) conda env create --name testenv --file=project_env.yml
 
 1) open Xampp . Turn On apache & mysql
+
 2) On anaconda terminal  
+     
      2a) cd Desktop
+     
      2b) cd foldername
+     
      2c) activate testenv
+     
      2d) python app.py
