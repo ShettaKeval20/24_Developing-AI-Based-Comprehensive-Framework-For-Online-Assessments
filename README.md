@@ -68,10 +68,10 @@ Create Environment
 
 2) On anaconda terminal  
      
-     2a) cd Desktop
+     i) cd Desktop
      
-     2b) cd foldername
+     ii) cd foldername
      
-     2c) activate testenv
+     iii) activate testenv
      
-     2d) python app.py
+     iv) python app.py
