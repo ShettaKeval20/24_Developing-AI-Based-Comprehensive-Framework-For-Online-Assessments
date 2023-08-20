@@ -83,7 +83,7 @@ Create Environment
         
         iv) python app.py.
 
-Full Functional Link:-
+Full Video Link:-
 https://drive.google.com/file/d/1yMnVKx1Sge6H2xs8wcmHOAWr2TwhhU8N/view
 
 
